@@ -7,3 +7,6 @@
 [submodule "Web3/Anryton-Hackathon/anryton-router/anryton-router/lib/forge-std"]
 	path = Web3/Anryton-Hackathon/anryton-router/anryton-router/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Web3/anryton-router/lib/forge-std"]
+	path = Web3/anryton-router/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
