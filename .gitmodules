@@ -10,3 +10,6 @@
 [submodule "Web3/anryton-router/lib/forge-std"]
 	path = Web3/anryton-router/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Web3/anryton-router/lib/chainlink-brownie-contracts"]
+	path = Web3/anryton-router/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
